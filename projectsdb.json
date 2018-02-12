@@ -1,34 +1,34 @@
 [
   {
     "projectId": 1001,
-    "projectCode": 'ASU',
-    "projectName": 'Asurion',
-    "description": 'Asurion is a Insurance Claim Project',
+    "projectCode": "ASU",
+    "projectName": "Asurion",
+    "description": "Asurion is a Insurance Claim Project",
     "strength": 70,
-    "logo": 'images/jq3.png'
+    "logo": "images/jq3.png"
   },
   {
     "projectId": 2002,
-    "projectCode": 'WEL',
-    "projectName": 'Wells Fargo',
-    "description": 'Wells Fargo is a Banking Project',
+    "projectCode": "WEL",
+    "projectName": "Wells Fargo",
+    "description": "Wells Fargo is a Banking Project",
     "strength": 70,
-    "logo": 'images/jq3.png'
+    "logo": "images/jq3.png"
   },
   {
     "projectId": 3003,
-    "projectCode": 'RBC',
-    "projectName": 'Royal Bank of Canada',
-    "description": 'RBC is an Banking Project',
+    "projectCode": "RBC'"
+    "projectName": "Royal Bank of Canada",
+    "description": "RBC is an Banking Project",
     "strength": 70,
-    "logo": 'images/jq3.png'
+    "logo": "images/jq3.png"
   },
   {
     "projectId": 4004,
-    "projectCode": 'EVB',
-    "projectName": 'Everbank',
-    "description": 'Everbank is an banking Project',
+    "projectCode": "EVB",
+    "projectName": "Everbank",
+    "description": "Everbank is an banking Project",
     "strength": 70,
-    "logo": 'images/jq3.png'
+    "logo": "images/jq3.png"
   }
 ]
