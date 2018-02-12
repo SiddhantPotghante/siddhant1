@@ -1,0 +1,52 @@
+[
+    {
+      projectId: 1001,
+      projectCode: 'SEMJQ3',
+      projectName: 'Seminar on jQuery 3.x',
+      description: 'Seminar will discuss all the new features of jQuery 3.x',
+      startDate: new Date(),
+      endDate: new Date(),
+      strength: 70,
+      logo: 'images/jq3.png'
+    },
+    {
+      projectId: 1001,
+      projectCode: 'SEMJQ3',
+      projectName: 'Seminar on jQuery 3.x',
+      description: 'Seminar will discuss all the new features of jQuery 3.x',
+      startDate: new Date(),
+      endDate: new Date(),
+      strength: 70,
+      logo: 'images/jq3.png'
+    },
+    {
+      projectId: 1001,
+      projectCode: 'SEMJQ3',
+      projectName: 'Seminar on jQuery 3.x',
+      description: 'Seminar will discuss all the new features of jQuery 3.x',
+      startDate: new Date(),
+      endDate: new Date(),
+      strength: 70,
+      logo: 'images/jq3.png'
+    },
+    {
+      projectId: 1001,
+      projectCode: 'SEMJQ3',
+      projectName: 'Seminar on jQuery 3.x',
+      description: 'Seminar will discuss all the new features of jQuery 3.x',
+      startDate: new Date(),
+      endDate: new Date(),
+      strength: 70,
+      logo: 'images/jq3.png'
+    },
+    {
+      projectId: 6969,
+      projectCode: 'Jhattuuuuuuu',
+      projectName: 'Seminar on jQuery 3.x',
+      description: 'Seminar will discuss all the new features of jQuery 3.x',
+      startDate: new Date(),
+      endDate: new Date(),
+      strength: 70,
+      logo: 'images/jq3.png'
+    }
+  ]
