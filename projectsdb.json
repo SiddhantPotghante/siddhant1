@@ -1,52 +1,34 @@
 [
-    {
-      projectId: 1001,
-      projectCode: 'SEMJQ3',
-      projectName: 'Seminar on jQuery 3.x',
-      description: 'Seminar will discuss all the new features of jQuery 3.x',
-      startDate: new Date(),
-      endDate: new Date(),
-      strength: 70,
-      logo: 'images/jq3.png'
-    },
-    {
-      projectId: 1001,
-      projectCode: 'SEMJQ3',
-      projectName: 'Seminar on jQuery 3.x',
-      description: 'Seminar will discuss all the new features of jQuery 3.x',
-      startDate: new Date(),
-      endDate: new Date(),
-      strength: 70,
-      logo: 'images/jq3.png'
-    },
-    {
-      projectId: 1001,
-      projectCode: 'SEMJQ3',
-      projectName: 'Seminar on jQuery 3.x',
-      description: 'Seminar will discuss all the new features of jQuery 3.x',
-      startDate: new Date(),
-      endDate: new Date(),
-      strength: 70,
-      logo: 'images/jq3.png'
-    },
-    {
-      projectId: 1001,
-      projectCode: 'SEMJQ3',
-      projectName: 'Seminar on jQuery 3.x',
-      description: 'Seminar will discuss all the new features of jQuery 3.x',
-      startDate: new Date(),
-      endDate: new Date(),
-      strength: 70,
-      logo: 'images/jq3.png'
-    },
-    {
-      projectId: 6969,
-      projectCode: 'Jhattuuuuuuu',
-      projectName: 'Seminar on jQuery 3.x',
-      description: 'Seminar will discuss all the new features of jQuery 3.x',
-      startDate: new Date(),
-      endDate: new Date(),
-      strength: 70,
-      logo: 'images/jq3.png'
-    }
-  ]
+  {
+    projectId: 1001,
+    projectCode: 'ASU',
+    projectName: 'Asurion',
+    description: 'Asurion is a Insurance Claim Project',
+    strength: 70,
+    logo: 'images/jq3.png'
+  },
+  {
+    projectId: 2002,
+    projectCode: 'WEL',
+    projectName: 'Wells Fargo',
+    description: 'Wells Fargo is a Banking Project',
+    strength: 70,
+    logo: 'images/jq3.png'
+  },
+  {
+    projectId: 3003,
+    projectCode: 'RBC',
+    projectName: 'Royal Bank of Canada',
+    description: 'RBC is an Banking Project',
+    strength: 70,
+    logo: 'images/jq3.png'
+  },
+  {
+    projectId: 4004,
+    projectCode: 'EVB',
+    projectName: 'Everbank',
+    description: 'Everbank is an banking Project',
+    strength: 70,
+    logo: 'images/jq3.png'
+  },
+]
